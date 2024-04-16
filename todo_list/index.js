@@ -72,3 +72,6 @@ else if (dropdown.menu === "update your todolist") {
     console.log(chalk.magentaBright("Task updated successfully."));
     console.log(todos);
 }
+// let index = todos.indexOf(newTask.oldtask)
+//   todos[index] = newTask.update
+//   console.log(todos);
